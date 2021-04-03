@@ -17,7 +17,7 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-webapp</artifactId>
-            <version>8.1.14.v20131031</version>
+            <version>[9.4.33,)</version>
         </dependency>
         <dependency>
             <groupId>commons-lang</groupId>
